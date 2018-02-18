@@ -23,3 +23,19 @@ for(int i : intArray) {
   System.out.println(i);
 }
 ```
+
+---
+
+For Bullet Points:
+
+* First Item
+* Second Item
+* Third Item
+
+For Numbered Items:
+
+1. First Item
+2. Second Item
+3. Third Item
+
+---
