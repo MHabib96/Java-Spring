@@ -1,5 +1,4 @@
 # ASP.NET MVC 5 Tutorial - Getting Started
----
 ##### Create Project with Visual Studio
 + File -> New -> Project -> ASP.NET Web Application -> Select MVC
 ##### Content
