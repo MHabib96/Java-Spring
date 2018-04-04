@@ -1,5 +1,6 @@
 # ASP.NET MVC 5 Tutorial - Action Results
 ##### Action Results
++ Action results are the output of our actions
 + This action is the base class for all action results in ASP.NET MVC.
 + Depending on what an action does it would return an instance of one of the classes that derive from action result.
 ##### Random Action
