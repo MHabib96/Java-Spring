@@ -1,5 +1,4 @@
 # ASP.NET MVC 5 Tutorial - Razor Syntax
----
 ##### Writing C# in a View
 + You can write C# code by prefixing it with an @ sign.
 + Razor View engine knows how to parse the html and C# syntax, allowing you to combine html elements with C# code.
