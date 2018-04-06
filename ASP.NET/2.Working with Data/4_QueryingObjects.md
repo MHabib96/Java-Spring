@@ -51,7 +51,7 @@ public ActionResult Details(int id)
 ```
 ##### Accessing Data through View
 + The @model annotation needs be an *IEnumerable*, like so: `@model IEnumerable<VidlyTwo.Models.Customer>`.
-+ The foreach loops through all customers in the database, putting each one into the View
++ The foreach loops through all customers in the database, putting each one into the View.
 + Each Customer name is turned into an *actionlink* that navigates to `/Customers/Details/{id}`.
 ```
 @foreach (var customer in Model)
