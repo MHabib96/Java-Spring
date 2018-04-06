@@ -6,7 +6,7 @@
 + First you must add an empty migration through the Package Manager Console.
 + In the empty migration, you can then call the *Sql* method to pass an SQL statement in the *Up* method.
 + You can use the *Sql* method to run any SQL statements.
-+ Once the SQL commands are typed, you must update the database using `update-database`
++ Once the SQL commands are typed, you must update the database using `update-database`.
 ```
 public override void Up()
 {
