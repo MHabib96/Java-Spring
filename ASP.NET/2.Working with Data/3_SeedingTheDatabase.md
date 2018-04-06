@@ -15,3 +15,8 @@ public override void Up()
     Sql("INSERT INTO MembershipTypes (Id, SignUpFee, DurationInMonths, DiscountRate) VALUES (4, 300, 12, 20)");
 }
 ```
+##### Adding Data through the Database
++ You can directly input data into the database tables, however it is not recommended to do so.
++ You can access the database tables through the Server Explorer in the *Tables* folder.
++ Right click the selected table and click *Show Table Data*.
++ Individual rows can be selected and values can be inputted manually.
