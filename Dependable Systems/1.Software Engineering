@@ -1,0 +1,59 @@
+# Software Engineering
+##### What us Software Engineering?
++ An *engineering discipline* that is concerned with all aspects of software production.
++ From the early system specification through maintaining the system after release.
++ Concerned with theories, methods, and tools for professional software development.
+##### Engineering Discipline
++ Using appropriate theories and methods to solve problems.
++ While bearing in mind the organisational and financial constraints.
+##### All Aspects of Software Engineering
++ Not just technical process of development but also project management and the development of tools, methods, etc.
+##### Importance of Software Engineering
++ More and more individuals and society rely on advanced software systems.
++ Need to be able to produce trustworthy and reliable systems economically and quickly.
++ Usually cheaper in the long run to use software engineering methods and techniques for software systems rather than writing the program as if it was a personal programming project.
++ The economies of all developed nations are dependent on software.
++ More and more systems are software controlled.
+##### Software Costs
++ Software costs often dominate computer system costs.
++ Costs more to maintain then to develop.
++ Software Engineering is concerned with cost effective software development.
+##### Software Products
++ **Generic Products**: Stand-alone systems that are marketed and sold to any customer who wishes to buy them.
++ The specification on what the software should do is owned by the software developer.
++ **Custom Products**: Software that is commisioned by a specific customer to meet their own needs.
++ The specification on what the software should do is owned by the customer.
+##### Software Process and Activities 
++ **Specification**: Where the customers and engineers define the software that is to be produced and the contraints on its operations.
++ **Development**: Where the software is designed and programmed.
++ **Validation**: Where the software is checked to ensure that it is what the customer requires.
++ **Evolution**: Where the software is modified to reflect changing customer and market requirements.
+##### Issues that Affect most Softwares
++ **Heterogeneity**: Increasingly, systems are required to operate as distributed systems across networks, different types of devices.
++ **Business and Social Change**: Business and society change incredibly quickly as emerging economies develop and new technologies become available.
++ **Security and Trust**: As software is intertwined with all aspects of our lives, it is essential that we can trust that software.
+##### Software Engineering Diversity
++ There is no universal set of software techniques applicable to all the different types of software systems.
++ Methods and tools used depend on the type of application being developed.
+##### Software Engineering Fundamentals
+Apply to all types of software sustems, irrespective of the development techniques used.
++ System should be developed using a managed and understood development process.
++ **Dependability** and **performance** are important
++ Understanding and managing the software **specification and requirements** (what software should do) is important.
++ should **reuse** software that has already been developed.
+##### Web Software Engineering
++ Software **reuse** is the dominant approach for constructing web-based systems.
++ Web-based systems should be developed and delivered**incrementally**.
++ User interfaces are contrained by the **capabilities of web browsers**.
+##### Essential Attributes of Good Software
++ **Maintainability**: Software should be written in such a way it can evolve to meet the changing needs of customers.
++ **Dependability and Security**: Includes a range of characteristics including reliability, securit and safety.
++ **Efficiency**: Software should not make wasteful use of system resources. Efficiency includes responsiveness, processing time, memory utilisation, etc.
++ **Acceptability**: Must be acceptable to the type of users for which it is designed for. Understandable, usable and compatible with other systems.
+##### System Dependability
++ The Dependability of a system **reflects the user's degree of trust in that system**. 
++ It reflects the extent of the user's confidence that it will operate as users expect and that it will not *fail* in normal use.
+##### Dependability Achievements
++ Fault Avoidance
++ Fault Detection
++ Fault Tolerance
