@@ -19,5 +19,17 @@ while iterator > len(int_arr):
 int_arr = [1, 2, 3, 4, 5]
 
 for i, int in enumerate(int_arr):
-	int_arr[i] += 1
+	print(int_arr[i])
+```
+##### range() in for loop
++ Another substitute for the standard for-loops.
++ The range of the loop can be specified in range() as arguments.
++ 'x' will hold the current int, can be used to index through an array.
+```
+fruit = ["Apple", "Banana", "Strawberry", "Raspberry", "Grapes"]
+
+array_size = len(array)
+
+for x in range(0, array_size):
+    print(array[x])
 ```
