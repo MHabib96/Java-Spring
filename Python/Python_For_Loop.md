@@ -15,6 +15,7 @@ while iterator > len(int_arr):
 ##### Enumerator
 + Python does not support standard for-loops, only for-each.
 + Using enumerate() works as a substitute to introduce a temporary iterator.
++ Iterator starts at 0 by default, enumerate() takes a second argument to define a custom start for the iterator. `enumerate(iterable, start=0)`
 ```
 int_arr = [1, 2, 3, 4, 5]
 
